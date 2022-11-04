@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximilianMauroner
-- 👀 I’m interested in anything coding related
-- 🌱 I’m currently learning Flutter, Vue, Laravel, React, ReactNative, Next.js
+- 👀 I’m interested in anything coding related but primarily React -> Next.js and TS
+- 🌱 I’m currently learning Flutter, Vue, React Native
 
 ### GitHub Stats
 
