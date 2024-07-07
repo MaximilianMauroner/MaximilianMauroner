@@ -4,7 +4,7 @@
 
 ### Links
 <div id="badges">
-  <a href="https://twitter.com/MaxiMauroner">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.mauroner.eu/">
+    <img src="https://img.shields.io/badge/home-badge" alt="Homepage Badge"/>
   </a>
 </div>
