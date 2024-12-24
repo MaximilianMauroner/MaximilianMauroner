@@ -1,6 +1,6 @@
 # Maximilian Mauroner
 
-Hi, I'm Maximilian Mauroner. I love coding and learning new tech. I spend my time working on projects with React, Rust, PHP, and experimenting with new tools. I also read just about every book genre — except fairy smut.
+Hi, I'm Maximilian Mauroner. I love to code and learning new stuf. I spend my time working on projects with React, Rust, PHP, and experimenting with new tools. I also read just about every book genre — except fairy smut.
 
 ---
 
@@ -8,7 +8,7 @@ Hi, I'm Maximilian Mauroner. I love coding and learning new tech. I spend my tim
 - 🛠️ **Tech I Use**: React, React Native, Rust, PHP
 - 📱 **What I’m Doing**: Learning React Native, Qwik, and Svelte while building apps and pipelines.
 - 🌐 **Interests**: Web tech, CI/CD, server deployment, and efficient development.
-- 🎌 **Fun Fact**: I’m into "weeb" culture and love blending it with tech.
+- 🎌 **Fun Fact**: I’m somewhat of a weeb in hiding.
 
 ---
 
