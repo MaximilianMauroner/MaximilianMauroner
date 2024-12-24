@@ -4,7 +4,7 @@
 
 ### Links
 <div id="badges">
-  <a href="https://www.mauroner.eu/">
+  <a href="https://www.mauroner.net/">
     <img src="https://img.shields.io/badge/home-badge" alt="Homepage Badge"/>
   </a>
 </div>
