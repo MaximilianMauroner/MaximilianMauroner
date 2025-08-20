@@ -1,51 +1,41 @@
-# Maximilian Mauroner
+# Hi, I’m Maximilian Mauroner
 
-Hi, I'm Maximilian Mauroner. I love to code and learning new stuf. I spend my time working on projects with React, Rust, PHP, and experimenting with new tools. I also read just about every book genre — except fairy smut.
+I build software people actually use—whether it’s a festival ordering system or a simple mood tracker to keep my own head straight. By day I’m a Software Engineering student; by night you’ll find me hacking away on side projects or drafting my next blog post.
 
----
+## What I’m Working On
 
-## 🚀 About Me
-- 🛠️ **Tech I Use**: React, React Native, Rust, PHP
-- 📱 **What I’m Doing**: Learning React Native, Qwik, and Svelte while building apps and pipelines.
-- 🌐 **Interests**: Web tech, CI/CD, server deployment, and efficient development.
-- 🎌 **Fun Fact**: I’m somewhat of a weeb in hiding.
+- Shipping features in Next.js and React Native  
+- Juggling lectures, part-time work, and whatever side project sparks joy  
+- Turning my Qwik experiments (and their dead ends) into blog stories
 
----
+## My Toolkit
 
-## 🧰 Tools I Use
+- Frontend: React, Next.js (and a bit of Svelte when I’m feeling adventurous)  
+- Mobile: React Native  
+- Backend: PHP or plain C (I gave Rust a spin, but I missed the low-level fun)  
+- CI/CD pipelines—because manual deploys are the worst
 
-### Frameworks & Languages
-- **Frontend**: React, Qwik, Svelte
-- **Mobile**: React Native
-- **Backend**: PHP, Rust
+## Favorite Projects
 
-### Developer Practices
-- **CI/CD**: Automating workflows
-- **Server Deployment**: Performance-focused infrastructure
+- **Festival Ordering System**  
+  Streamlined food & drink orders at events big and small.  
+- **Mood Tracker App**  
+  A lightweight daily check-in that surprisingly stuck.  
+- **TeddyDocs BZ**  
+  A pediatric initiative’s new website.  
+- **ÖERD**  
+  A work-in-progress site for an Austrian society.
 
----
+## What’s Next
 
-## 🎯 Goals
-- 🔍 Learn more about Rust for backend development
-- 💡 Build cool mobile apps with React Native
-- 🌱 Dive deeper into Qwik and Svelte
-
----
-
-## 🌐 Links
-<div id="badges">
-  <a href="https://www.mauroner.net/">
-    <img src="https://img.shields.io/badge/homepage-visit-green" alt="Homepage Badge"/>
-  </a>
-  <a href="https://github.com/MaximilianMauroner">
-    <img src="https://img.shields.io/github/followers/MaximilianMauroner?label=Follow&style=social" alt="GitHub Badge"/>
-  </a>
-</div>
+- Dive deeper into systems programming with C  
+- Revisit Svelte once Runes feels less experimental  
+- Finally finish one of my 100+ half-baked ideas (no pressure 😉)
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximilianMauroner&show_icons=true&theme=radical)
+Feel free to drop by my website or GitHub to say hi:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianMauroner&layout=compact&theme=radical)
-
+- 🌐 https://www.mauroner.net
+- ✍️ https://www.mauroner.net/dev-log  
+- ✍️ https://www.mauroner.net/blog  
