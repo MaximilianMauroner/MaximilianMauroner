@@ -1,6 +1,6 @@
 # Hi, I’m Maximilian Mauroner
 
-I build software people actually use—whether it’s a festival ordering system or a simple mood tracker to keep my own head straight. By day I’m a Software Engineering student; by night you’ll find me hacking away on side projects or drafting my next blog post.
+I try to build software at least I actually use—whether it’s a festival ordering system or a simple mood tracker to keep my own head straight.
 
 ## What I’m Working On
 
@@ -10,9 +10,9 @@ I build software people actually use—whether it’s a festival ordering system
 
 ## My Toolkit
 
-- Frontend: React, Next.js (and a bit of Svelte when I’m feeling adventurous)  
+- Frontend: React(Next.js) (and a bit of Svelte when I’m feeling adventurous)  
 - Mobile: React Native  
-- Backend: PHP or plain C (I gave Rust a spin, but I missed the low-level fun)  
+- Backend: TypeScript, PHP or plain C (I gave Rust a spin, but I somehow liked C more)  
 - CI/CD pipelines—because manual deploys are the worst
 
 ## Favorite Projects
