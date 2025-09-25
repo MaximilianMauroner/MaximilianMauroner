@@ -34,7 +34,7 @@ I build software people actually use—whether it’s a festival ordering system
 
 ---
 
-Feel free to drop by my website or GitHub to say hi:
+Feel free to drop by my website:
 
 - 🌐 https://www.mauroner.net
 - ✍️ https://www.mauroner.net/dev-log  
