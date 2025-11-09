@@ -1,6 +1,6 @@
 # Hi, I’m Maximilian Mauroner
 
-I try to build software at least I actually use—whether it’s a festival ordering system or a simple mood tracker to keep my own head straight.
+I try to build software at least I actually use - whether it’s a festival ordering system or a simple mood tracker to keep my own head straight.
 
 ## What I’m Working On
 
