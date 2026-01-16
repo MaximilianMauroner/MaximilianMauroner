@@ -4,7 +4,12 @@ I build small, practical software to improve everyday workflows — tools and ap
 
 Most of my work lives in the TypeScript + React ecosystem (Next.js, React Native/Expo), with occasional experiments when curiosity wins.
 
-I build client and internal projects at **Lab4Code**, including **TeddyDocs BZ** → [teddydocs-bz.org](https://www.teddydocs-bz.org/), and maintain a growing collection of side projects like **hide-sensitive-information**, **claude-code-notify**, **Moodinator**, and **how-long-to-api**.
+I build client and internal projects at **Lab4Code**, including **TeddyDocs BZ** → [teddydocs-bz.org](https://www.teddydocs-bz.org/), and maintain a growing collection of side projects:
+
+- **hide-sensitive-information** → https://github.com/MaximilianMauroner/hide-sensitive-information  
+- **claude-code-notify** → https://github.com/MaximilianMauroner/claude-code-notify  
+- **Moodinator** → https://github.com/MaximilianMauroner/Moodinator  
+- **how-long-to-api** → https://github.com/MaximilianMauroner/how-long-to-api  
 
 I also write:
 - quick notes & experiments → [/snacks](https://www.mauroner.net/snacks)
