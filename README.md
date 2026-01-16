@@ -1,20 +1,20 @@
-Hi, I’m Maximilian 👋
+Hi, I’m Maximilian.
 
-I build small, practical software to improve everyday workflows — tools and apps I actually use.
+I build software to fix things that bug me, simplify workflows, and make everyday tech a bit nicer.  
+Mostly TypeScript and React with Next.js and React Native/Expo. If something else feels right, I try that too.
 
-Most of my work lives in the TypeScript + React ecosystem (Next.js, React Native/Expo), with occasional experiments when curiosity wins.
+I build client and internal stuff at Lab4Code, including TeddyDocs BZ - https://www.teddydocs-bz.org/
 
-I build client and internal projects at **Lab4Code**, including **TeddyDocs BZ** → [teddydocs-bz.org](https://www.teddydocs-bz.org/), and maintain a growing collection of side projects:
-
-- **hide-sensitive-information** → https://github.com/MaximilianMauroner/hide-sensitive-information  
-- **claude-code-notify** → https://github.com/MaximilianMauroner/claude-code-notify  
-- **Moodinator** → https://github.com/MaximilianMauroner/Moodinator  
-- **how-long-to-api** → https://github.com/MaximilianMauroner/how-long-to-api  
+Some side projects I’ve kept going:
+- hide-sensitive-information - https://github.com/MaximilianMauroner/hide-sensitive-information
+- claude-code-notify - https://github.com/MaximilianMauroner/claude-code-notify
+- Moodinator - https://github.com/MaximilianMauroner/Moodinator
+- how-long-to-api - https://github.com/MaximilianMauroner/how-long-to-api
 
 I also write:
-- quick notes & experiments → [/snacks](https://www.mauroner.net/snacks)
-- longer, diary-style dev logs → [/dev-log](https://www.mauroner.net/dev-log)
-- general blog posts → [/blog](https://www.mauroner.net/blog)
+- quick notes and half-baked experiments - https://www.mauroner.net/snacks
+- longer, diary-style dev logs - https://www.mauroner.net/dev-log
+- general posts - https://www.mauroner.net/blog
 
-Everything — work, writing, and contact info — lives here:  
-👉 [mauroner.net](https://www.mauroner.net)
+Everything else (work, contact, links) lives here:  
+https://www.mauroner.net
