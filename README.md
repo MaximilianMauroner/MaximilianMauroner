@@ -1,7 +1,7 @@
 Hi, I’m Maximilian.
 
 I build software to fix things that bug me, improve workflows, and make everyday tech a bit nicer.  
-Mostly TypeScript and React with Next.js and React Native/Expo. If something else feels right, I try that too. :contentReference[oaicite:1]{index=1}
+Mostly TypeScript and React with Next.js and React Native/Expo. If something else feels right, I try that too.
 
 I build client and internal stuff at Lab4Code, including **[TeddyDocs BZ](https://www.teddydocs-bz.org/)**.
 
